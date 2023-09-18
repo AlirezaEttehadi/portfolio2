@@ -74,14 +74,14 @@ export const projectsData = [
   {
     title: "LegaMart",
     description:
-      "Legamart services is an online legal services ecosystem that helps applicants, including legal professionals and non-legal users, find and hire lawyers and subsidiary necessary services in foreign jurisdictions. The services covered are advisory, advocacy, translation and case review, and the primary areas of law covered are family law, corporate law, and immigration law.",
+      "Legamart services is an online legal services ecosystem that helps applicants find and hire lawyers and subsidiary necessary services in foreign jurisdictions.",
     tags: ["React", "Next.js", "Tailwind", "NX monorepo", "Cypress"],
     imageUrl: LegamartWebsiteImg,
   },
   {
     title: "1Sell",
     description:
-      "1Sell is the leading Qatari platform for the E-Commerce industry. Our mission is to be the global platform for all the goods started with Fashion & Beauty items. 1Sell is a vast Internet-Based enterprise that sells books, music, movies, houseware, electronics, toys, and many other goods either directly or as the middleman between other retailers and 1Sells's thousands of customers the Middle East.",
+      "1Sell is the leading Qatari platform for the E-Commerce industry. The mission is to be the global platform for all the Fashion & Beauty goods.",
     tags: ["React", "Next.js", "Ant Design", "Sass", "Storybook"],
     imageUrl: OneSellWebsiteImg,
   },
