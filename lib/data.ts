@@ -1,6 +1,6 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
+import { FaGlobe, FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 
 import LegamartWebsiteImg from "@/public/legamart.png";
@@ -65,7 +65,7 @@ export const experiencesData = [
     location: "WorldWide",
     description:
       "I'm now a senior front-end engineer. I'm also open to relocate.",
-    icon: React.createElement(FaReact),
+    icon: React.createElement(FaGlobe),
     date: "2022 - Present",
   },
 ] as const;
