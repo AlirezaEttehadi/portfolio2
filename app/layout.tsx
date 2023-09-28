@@ -12,9 +12,33 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Alireza | Personal Portfolio",
+  title: "Alireza Ettehadi | Portfolio",
   description:
     "Alireza Ettehadi is a front-end developer with 6 years of experience.",
+  keywords: [
+    "Alireza Ettehadi",
+    "Portfolio",
+    "Web Development",
+    "front-end",
+    "engineer",
+  ],
+  openGraph: {
+    title: "Alireza Ettehadi | Portfolio",
+    description:
+      "Welcome to my portfolio. Here you can find my latest projects and contact information.",
+    url: "https://alirezaettehadi.com",
+    siteName: "Alireza Ettehadi",
+    images: [
+      {
+        url: "/alireza-avatar.jpg",
+        width: 960,
+        height: 1280,
+        alt: "Alireza Ettehadi Portrait",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
