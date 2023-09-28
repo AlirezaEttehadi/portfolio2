@@ -132,4 +132,5 @@ export const skillsData = [
   "Docker",
   "SWR",
   "Zustand",
+  "Vercel",
 ] as const;
