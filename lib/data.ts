@@ -77,6 +77,7 @@ export const projectsData = [
       "Legamart services is an online legal services ecosystem that helps applicants find and hire lawyers and subsidiary necessary services in foreign jurisdictions.",
     tags: ["React", "Next.js", "Tailwind", "NX monorepo", "Cypress"],
     imageUrl: LegamartWebsiteImg,
+    link: "https://legamart.com/",
   },
   {
     title: "1Sell",
@@ -84,6 +85,7 @@ export const projectsData = [
       "1Sell is the leading Qatari platform for the E-Commerce industry. The mission is to be the global platform for all the Fashion & Beauty goods.",
     tags: ["React", "Next.js", "Ant Design", "Sass", "Storybook"],
     imageUrl: OneSellWebsiteImg,
+    link: "https://1sell.com/",
   },
   {
     title: "Vitrin",
@@ -91,6 +93,7 @@ export const projectsData = [
       "Vitrin is a commerce platform like Shopify, Square, etc including products such as Website Builder, POS Desktop Application, and Business listing service.",
     tags: ["React", "Next.js", "Redux", "Bootstrap", "PWA"],
     imageUrl: VitrinWebsiteImg,
+    link: "https://vitrin.me/",
   },
   {
     title: "Coimex Inc.",
@@ -98,6 +101,7 @@ export const projectsData = [
       "Coimex is a B2B Foreign Trade Platform that connects you with trustable traders worldwide to build long term partnerships.",
     tags: ["React", "Next.js", "Firebase", "Bootstrap", "Redux"],
     imageUrl: CoimexWebsiteImg,
+    link: "https://coimex.co/",
   },
 ] as const;
 
