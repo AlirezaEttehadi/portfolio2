@@ -20,10 +20,9 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         {`I'm`} <strong>Alireza Ettehadi</strong>, a Senior
-        <strong> Front-end Engineer</strong> with over <b>6 years</b> of
-        expertise in <strong>React</strong>, <strong>Next.js</strong>, and a
-        range of web technologies. My journey began with a {`Bachelor's`} degree
-        in
+        <strong> Front-end Engineer</strong> with <b>8 years</b> of expertise in{" "}
+        <strong>React</strong>, <strong>Next.js</strong>, and a range of web
+        technologies. My journey began with a {`Bachelor's`} degree in
         <strong> Mechanical Engineering</strong>, but my passion for web
         development led me to excel in creating sleek and responsive web
         applications. {`I'm`} skilled in <strong>state management</strong>,

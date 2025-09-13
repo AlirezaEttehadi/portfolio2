@@ -48,7 +48,7 @@ export const experiencesData = [
     title: "Freelance Front-End Developer",
     location: "Tehran, Iran",
     description:
-      "I'm now a front-end developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Node.js and Redux. I'm open to full-time opportunities.",
+      "I'm now a front-end developer working as a freelancer. My stack includes React, Next.js, TypeScript and Node.js. I'm open to full-time opportunities.",
     icon: React.createElement(CgWorkAlt),
     date: "2017 - 2020",
   },
@@ -63,8 +63,7 @@ export const experiencesData = [
   {
     title: "Senior Front-End Engineer",
     location: "WorldWide",
-    description:
-      "I'm now a senior front-end engineer. I'm also open to relocate.",
+    description: "I'm now a senior front-end engineer.",
     icon: React.createElement(FaGlobe),
     date: "2022 - Present",
   },
@@ -113,8 +112,11 @@ export const skillsData = [
   "React",
   "Next.js",
   "Node.js",
+  "Express.js",
   "Git",
   "Tailwind",
+  "Tanstack Query",
+  "Tanstack Router",
   "Redux",
   "GraphQL",
   "Framer Motion",
@@ -132,6 +134,7 @@ export const skillsData = [
   "Jest",
   "React Testing Library",
   "Cypress",
+  "Playwright",
   "Firebase",
   "Docker",
   "SWR",

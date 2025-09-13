@@ -14,7 +14,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Alireza Ettehadi | Portfolio",
   description:
-    "Alireza Ettehadi is a front-end developer with 6 years of experience.",
+    "Alireza Ettehadi is a front-end developer with 8 years of experience.",
   keywords: [
     "Alireza Ettehadi",
     "Portfolio",
