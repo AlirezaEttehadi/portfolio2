@@ -35,6 +35,6 @@
     "@types/react-vertical-timeline-component": "^3.3.4"
   },
   "engines": {
-    "node": ">=20.19.0"
+    "node": ">=22.0.0"
   }
 }
