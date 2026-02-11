@@ -4,9 +4,9 @@ import { FaGlobe, FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 
 import LegamartWebsiteImg from "@/public/legamart.png";
-import OneSellWebsiteImg from "@/public/1sell.png";
 import VitrinWebsiteImg from "@/public/vitrin.png";
-import CoimexWebsiteImg from "@/public/coimex.png";
+import HeliTechnologyWebsiteImg from "@/public/heli.png";
+import DigikalaWebsiteImg from "@/public/digikala.png";
 
 export const links = [
   {
@@ -71,6 +71,22 @@ export const experiencesData = [
 
 export const projectsData = [
   {
+    title: "Digikala",
+    description:
+      "Digikala Group is a leading e-commerce organization with a strong presence in multiple online industries.",
+    tags: ["React", "Next.js", "React-native", "NX monorepo", "Java"],
+    imageUrl: DigikalaWebsiteImg,
+    link: "https://digikala.com/",
+  },
+  {
+    title: "Heli Technology",
+    description:
+      "Heli Technology is a remote-first company focused on building user-centered digital products that solve real-world problems.",
+    tags: ["React", "Next.js", "React-vite", "NX monorepo", "Playwright"],
+    imageUrl: HeliTechnologyWebsiteImg,
+    link: "https://heli.technology/",
+  },
+  {
     title: "LegaMart",
     description:
       "Legamart services is an online legal services ecosystem that helps applicants find and hire lawyers and subsidiary necessary services in foreign jurisdictions.",
@@ -79,28 +95,12 @@ export const projectsData = [
     link: "https://legamart.com/",
   },
   {
-    title: "1Sell",
-    description:
-      "1Sell is the leading Qatari platform for the E-Commerce industry. The mission is to be the global platform for all the Fashion & Beauty goods.",
-    tags: ["React", "Next.js", "Ant Design", "Sass", "Storybook"],
-    imageUrl: OneSellWebsiteImg,
-    link: "https://1sell.com/",
-  },
-  {
     title: "Vitrin",
     description:
       "Vitrin is a commerce platform like Shopify, Square, etc including products such as Website Builder, POS Desktop Application, and Business listing service.",
     tags: ["React", "Next.js", "Redux", "Bootstrap", "PWA"],
     imageUrl: VitrinWebsiteImg,
     link: "https://vitrin.me/",
-  },
-  {
-    title: "Coimex Inc.",
-    description:
-      "Coimex is a B2B Foreign Trade Platform that connects you with trustable traders worldwide to build long term partnerships.",
-    tags: ["React", "Next.js", "Firebase", "Bootstrap", "Redux"],
-    imageUrl: CoimexWebsiteImg,
-    link: "https://coimex.co/",
   },
 ] as const;
 
@@ -118,13 +118,10 @@ export const skillsData = [
   "Tanstack Query",
   "Tanstack Router",
   "Redux",
-  "GraphQL",
   "Framer Motion",
   "Sass",
-  "Redux-Saga",
   "Material-UI",
   "Ant Design",
-  "Bootstrap",
   "PWA",
   "NX monorepo",
   "Webpack",
@@ -135,7 +132,6 @@ export const skillsData = [
   "React Testing Library",
   "Cypress",
   "Playwright",
-  "Firebase",
   "Docker",
   "SWR",
   "Zustand",

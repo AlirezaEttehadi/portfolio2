@@ -19,10 +19,11 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        {`I'm`} <strong>Alireza Ettehadi</strong>, a Senior
-        <strong> Front-end Engineer</strong> with <b>8 years</b> of expertise in{" "}
-        <strong>React</strong>, <strong>Next.js</strong>, and a range of web
-        technologies. My journey began with a {`Bachelor's`} degree in
+        {`I'm`} <strong>Alireza Ettehadi</strong>, a
+        <strong> Front-end Software Engineer</strong> with <b>6 years</b> of
+        expertise in <strong>React</strong>, <strong>Next.js</strong>, and a
+        range of web technologies. My journey began with a {`Bachelor's`} degree
+        in
         <strong> Mechanical Engineering</strong>, but my passion for web
         development led me to excel in creating sleek and responsive web
         applications. {`I'm`} skilled in <strong>state management</strong>,
@@ -37,10 +38,10 @@ export default function About() {
         environments with a strong grasp of <strong>Git</strong> version
         control. {`I've`}
         <strong> mentored</strong> junior developers, nurturing their growth,
-        and have been a key contributor to large-scale projects with over 20
-        developers and 500,000+ lines of code. My commitment to innovation and
-        exceptional <strong>user experiences</strong> drives me, and {`I'm`}{" "}
-        excited to bring my skills to your next project.
+        and have been a key contributor to large-scale projects with over 100
+        developers. My commitment to innovation and exceptional{" "}
+        <strong>user experiences</strong> drives me, and {`I'm`} excited to
+        bring my skills to your next project.
       </p>
     </motion.section>
   );
